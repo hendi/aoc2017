@@ -1,2 +1,9 @@
 * aoc2017
-My solutions for Advent of Code 2017
+My solutions for [[http://adventofcode.com/2017][Advent of Code 2017]]
+
+My daily languages are C and Python, but this year I use the opportunity to
+learn some *Elixir*. I strieve to write good, idiomatic code, so if you see 
+something that could be improved please don't hesitate to open an issue or to
+submit a PR.
+
+Thanks :)
